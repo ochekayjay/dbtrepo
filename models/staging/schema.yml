@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: staging
+    database: axial-feat-443616-a1
+    schema: zoomcamp
+
+
+    tables:
+      - name: green_tripdata
+
+      - name: yellow_tripdata
